@@ -1,0 +1,20 @@
+# C++ build output
+/build/
+/bin/
+
+# Executable
+*.exe
+*.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
